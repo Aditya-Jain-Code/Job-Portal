@@ -1,3 +1,3 @@
 # Project Video
 
-![](https://youtu.be/Wk0O3K84ewg)
+![Project video on youtube](https://youtu.be/Wk0O3K84ewg)
